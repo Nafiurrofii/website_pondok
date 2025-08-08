@@ -252,6 +252,10 @@ html {
     color: #777;
 }
 
+.hero-kaligrafi {
+    width: auto;
+}
+
 /* --- Gaya untuk responsivitas --- */
 @media (max-width: 1024px) {
     .hero-section {
@@ -756,4 +760,5 @@ footer {
     .footer-socials a {
         margin: 0 10px;
     }
+
 }
