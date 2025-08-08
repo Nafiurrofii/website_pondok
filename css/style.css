@@ -111,7 +111,7 @@ html {
 }
 
 .hero-kaligrafi {
-    width: 450px;
+    width: auto;
     height: auto;
     margin-bottom: 20px;
 }
@@ -250,10 +250,6 @@ html {
 .review-meta {
     font-size: 10px;
     color: #777;
-}
-
-.hero-kaligrafi {
-    width: auto;
 }
 
 /* --- Gaya untuk responsivitas --- */
@@ -762,3 +758,4 @@ footer {
     }
 
 }
+
